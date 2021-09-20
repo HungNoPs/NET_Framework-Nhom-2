@@ -1,0 +1,7 @@
+C:\Users\Hung\Downloads\2021NetNhom2-main\OOP\bin\Debug\OOP.exe.config
+C:\Users\Hung\Downloads\2021NetNhom2-main\OOP\bin\Debug\OOP.exe
+C:\Users\Hung\Downloads\2021NetNhom2-main\OOP\bin\Debug\OOP.pdb
+C:\Users\Hung\Downloads\2021NetNhom2-main\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+C:\Users\Hung\Downloads\2021NetNhom2-main\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\Users\Hung\Downloads\2021NetNhom2-main\OOP\obj\Debug\OOP.exe
+C:\Users\Hung\Downloads\2021NetNhom2-main\OOP\obj\Debug\OOP.pdb
